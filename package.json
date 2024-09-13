@@ -1,0 +1,15 @@
+{
+  "name": "result-backend",
+  "version": "1.0.0",
+  "description": "Reasult school backend lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Vitaliy Zems <vitalyazems@gmail.com>",
+  "license": "ISC"
+}
